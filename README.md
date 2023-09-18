@@ -1,1 +1,3 @@
-# Medicine
+## Выполнение тестового задания для MedTech
+
+Окружение можно восстановить воспользовавшись файлами enviroment.yaml и requirements.txt.
